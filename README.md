@@ -7,9 +7,9 @@
 
 ---
 
-# 🇹🇷 Türkçe Açıklama (Turkish)
+# Türkçe Açıklama (Turkish)
 
-## 📌 Projenin Amacı  
+## Projenin Amacı  
 Bu depo, **Lumen Quantica I** çalışmasının resmi kaynak kodlarını, teorik belgelerini, matematiksel çerçevesini ve F1–F5 deney protokollerini içerir.  
 Teori, Enerji (E), Bilgi (I) ve Anlam (A) arasındaki dönüşümü yeni ve bütüncül bir korunum denklemiyle ifade eder:
 
@@ -35,9 +35,9 @@ Bu, bilginin ne kadarının anlama dönüştüğünü ölçen temel bir semantik
 
 ---
 
-# 🇬🇧 English Description (English)
+# English Description (English)
 
-## 📌 Project Purpose  
+## Project Purpose  
 This repository contains all official source code, theoretical documents, mathematical structures, and F1–F5 experimental protocols of **Lumen Quantica I**.  
 The theory formulates the transformation between Energy (E), Information (I), and Meaning (A) through a unified conservation principle:
 
@@ -61,7 +61,43 @@ This operator measures how efficiently incoming information is transformed into 
 - **Energy–Information–Meaning Chain (E–I–A)**  
 - **Cosmic Resonance Model (Ωₜ)**  
 
+# Repository Structure
+docs/           — Documentation & theoretical manuscripts
+src/            — Code: C-operator, s-bit protocol, simulations
+experiments/    — F1–F5 experiment code & data
+data/           — Example datasets (EEG, entropy maps, AI logs)
+diagrams/       — Equations, models, visualizations
+
+
 ---
 
-# 📂 Repository Structure
+# Getting Started
 
+## Clone the repository
+```bash
+git clone https://github.com/quantheos/lumenquantica.git
+cd lumenquantica
+
+Environment (Recommended)
+
+Python 3.10+
+PyTorch 2.x
+NumPy / SciPy
+Matplotlib or Plotly
+Jupyter Notebook
+
+pip install torch numpy scipy matplotlib plotly jupyter
+
+Contributing / Katkıda Bulunma
+Community contributions are welcome.
+Lütfen yeni branch açın, issue oluşturun ve pull request gönderin.
+Feel free to open issues, create branches, and submit pull requests.
+
+License
+Bu proje MIT lisansı ile yayınlanmıştır.
+This project is licensed under the MIT License.
+
+© 2025 Quantheos — Lumen Quantica I
+text
+
+# Repository Structure
