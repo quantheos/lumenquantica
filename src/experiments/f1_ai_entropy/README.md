@@ -37,6 +37,10 @@ EEG, nöromorfik çipler veya biyolojik sistemler gibi
 Bu bağlamda F1, tekil bir deney değil,
 **çok-katmanlı bir deney zincirinin başlangıç noktasıdır**.
 
+Not: Kitapta yer alan LLaMA-3 + wattmetre deneyi (A.2),
+bu bilgi-teorik ölçümün fiziksel enerji ölçümleriyle
+birleştirildiği üst-katman bir uygulamadır.
+
 ---
 
 ## 🇬🇧 English Description
@@ -73,6 +77,10 @@ such as EEG measurements, neuromorphic hardware, or biological systems.
 
 In this sense, F1 is not a standalone experiment,
 but the **initial node of a multi-layer experimental chain**.
+
+Note: The LLaMA-3 + wattmeter experiment described in Section A.2 of the book
+represents a higher-layer integration of this information-theoretic measurement
+with physical energy consumption data.
 
 ---
 
