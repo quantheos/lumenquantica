@@ -44,6 +44,10 @@ Ancak şu hipotezi sınamak için kullanılır:
 Bu nedenle F2, F1’de ölçülen bilgi düzenlenmesini,
 **zaman-frekans düzleminde anlamsal yapı oluşumuyla**
 ilişkilendiren bir ara katman deneyidir.
+Not: Kitapta tanımlanan F2 protokolü (A.3),
+enerji tüketimi (ΔE) ve görev başarımı temelli semantik ölçümleri de içerir.
+Bu depo, söz konusu protokolün yalnızca zaman–frekans düzlemindeki
+yapısal anlamsal yoğunluk bileşenini izole eder.
 
 ---
 
@@ -90,6 +94,10 @@ Thus, F2 functions as an intermediate-layer experiment,
 linking the information structuring observed in F1
 to emergent semantic organization
 in the time–frequency domain.
+Note: The full F2 protocol described in Section A.3 of the book
+also includes energy consumption (ΔE) and task-performance-based semantic scoring.
+This repository isolates only the time–frequency structural component
+of semantic density.
 
 ---
 
